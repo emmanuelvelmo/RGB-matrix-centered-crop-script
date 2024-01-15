@@ -20,5 +20,5 @@
   <br/>
 
   <br/>
-  The input array has 16 values, the output array has 4 values, this output array is centered with respect to the input array (as long as the differences between the axes are even values), therefore the values in the output array are "6, 7, 10, 11".
+  The input array has 16 values, the output array has 4 values, this output array is centered with respect to the input array (as long as the differences between the input and output values of a same axis are even values), therefore the values in the output array are "6, 7, 10, 11".
 </p>
